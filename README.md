@@ -13,4 +13,4 @@ The CDP currently supports the following boards:
 * [LILYGO® T-Beam ESP32 LoRa V1.1 SX1276](https://www.lilygo.cc/products/t-beam-v1-1-esp32-lora-module)
 
 ## Assignment
-The assignment is to send either battery or GPS information using the LoRa transmitter. The instruction for the assignment can be found in the [Assignment.md](Assignment.md) file.
+The assignment is to send bytes in different form using the LoRa transmitter. Optionally, there is a challenge to send battery or GPS information.  The instruction for the assignment can be found in the [Assignment.md](Assignment.md) file.
